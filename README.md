@@ -184,23 +184,19 @@ current_work:
 
 <div align="center">
 
-<a href="https://linkedin.com/in/luvdh" target="_blank">
+  <a href="https://linkedin.com/in/luvdh" target="_blank" style="margin: 0 10px;">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+  </a>
 
-<a href="mailto:luv.dhamija.official@gmail.com">
+  <a href="mailto:luv.dhamija.official@gmail.com" style="margin: 0 10px;">
     <img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+  </a>
 
-<a href="https://github.com/luv-dhamija88">
+  <a href="https://github.com/luv-dhamija88" style="margin: 0 10px;">
     <img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<br/>
-<br/>
+  </a>
 
 </div>
-
 
 
 ---
