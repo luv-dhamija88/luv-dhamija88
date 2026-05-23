@@ -44,33 +44,93 @@ current_work:
 
 ---
 
-# 🛠️ Tech Stack
+
+# 🛠️ Backend Engineering Stack
 
 <div align="center">
 
-## Languages
+<table>
+<tr>
 
-<img src="https://skillicons.dev/icons?i=java,python,kotlin,cs" />
+<td align="center" width="50%" valign="top">
 
-## Backend & Frameworks
+## Core Backend
 
-<img src="https://skillicons.dev/icons?i=spring,fastapi,dotnet" />
+<img src="https://skillicons.dev/icons?i=java,spring,kotlin" />
 
-## Databases & Messaging
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka,rabbitmq" />
+`Java` • `Spring Boot` • `Spring Cloud`
 
-## DevOps & Infrastructure
+<br/>
+
+`Project Reactor` • `JPA/Hibernate`
+
+</td>
+
+<td align="center" width="50%" valign="top">
+
+## Distributed Systems
+
+<img src="https://skillicons.dev/icons?i=kafka,rabbitmq,redis,postgres,mongodb" />
+
+<br/><br/>
+
+`Kafka` • `RabbitMQ`
+
+<br/>
+
+`PostgreSQL` • `MongoDB` • `Redis`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%" valign="top">
+
+## Infrastructure
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions" />
 
-## Observability & Monitoring
+<br/><br/>
 
-<img src="https://img.shields.io/badge/OpenTelemetry-412991?style=for-the-badge&logo=opentelemetry&logoColor=white" />
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/SigNoz-161B22?style=for-the-badge" />
+`Docker` • `Kubernetes`
+
+<br/>
+
+`AWS` • `GitHub Actions`
+
+</td>
+
+<td align="center" width="50%" valign="top">
+
+## Observability
+
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+
+<br/><br/>
+
+`OpenTelemetry`
+
+<br/>
+
+`Prometheus` • `Grafana` • `SigNoz`
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
+
+
+
+
+
+
 
 ---
 
