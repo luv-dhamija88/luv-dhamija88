@@ -54,7 +54,7 @@ current_work:
 
 ## Backend & Frameworks
 
-<img src="https://skillicons.dev/icons?i=spring,fastapi" />
+<img src="https://skillicons.dev/icons?i=spring,fastapi,dotnet" />
 
 ## Databases & Messaging
 
