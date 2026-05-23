@@ -182,22 +182,18 @@ current_work:
 
 # 🌐 Let's Connect
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 15px;">
 
 <a href="https://linkedin.com/in/luvdh" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:luv.dhamija.official@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
 <a href="https://github.com/luv-dhamija88">
-    <img src="https://skillicons.dev/icons?i=github"/>
+    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
