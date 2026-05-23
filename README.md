@@ -185,15 +185,15 @@ current_work:
 <div align="center">
 
 <a href="https://linkedin.com/in/luvdh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:luv.dhamija.official@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 <a href="https://github.com/luv-dhamija88">
-    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <br/>
