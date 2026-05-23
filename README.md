@@ -75,7 +75,7 @@ current_work:
 ---
 
 # 🏗️ What I Build
-<center>
+<div align="center">
 <table>
 <tr>
 <td width="50%">
@@ -126,7 +126,7 @@ current_work:
 </td>
 </tr>
 </table>
-</center>
+</div>
 
 ---
 
